@@ -4,4 +4,4 @@ function converterParaMaiusculas(arrayDePalavras) {
   }
   const palavras = ["maçã", "banana", "laranja"];
   const palavrasEmMaiusculas = converterParaMaiusculas(palavras);
-  console.log(palavrasEmMaiusculas); // Isso imprimirá ["MAÇÃ", "BANANA", "LARANJA"]
+  console.log(palavrasEmMaiusculas); // ira ficar "MAÇÃ", "BANANA", "LARANJA"
