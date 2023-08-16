@@ -6,6 +6,6 @@ function ehPalindromo(str) {
     return str === reversedStr;
   }
   
-  console.log(ehPalindromo("radar"));   // Isso imprimirá "true"
-  console.log(ehPalindromo("banana"));  // Isso imprimirá "false"
-  console.log(ehPalindromo("A man, a plan, a canal, Panama"));  // Isso imprimirá "true"
+  console.log(ehPalindromo("radar"));   // true
+  console.log(ehPalindromo("banana"));  // false
+  console.log(ehPalindromo("A man, a plan, a canal, Panama"));  // true
