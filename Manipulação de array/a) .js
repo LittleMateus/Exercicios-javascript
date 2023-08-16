@@ -8,4 +8,4 @@ function somarElementos(array) {
 }
 const numeros = [2, 4, 6, 8];
 const resultado = somarElementos(numeros);
-console.log(resultado); // Isso imprimirá "20
+console.log(resultado); //20
