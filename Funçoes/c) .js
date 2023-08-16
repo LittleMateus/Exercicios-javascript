@@ -10,4 +10,4 @@ function calcularMediaAritmetica(arrayDeNumeros) {
   
   const numeros = [10, 20, 30, 40, 50];
   const media = calcularMediaAritmetica(numeros);
-  console.log(media); // Isso imprimirá "30"
+  console.log(media); //30
