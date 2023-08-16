@@ -5,5 +5,5 @@ function palavrasEmOrdemReversa(str) {
     return resultado;
   }
   
-  console.log(palavrasEmOrdemReversa("Olá, mundo!")); // Isso imprimirá "mundo! Olá,"
-  console.log(palavrasEmOrdemReversa("Programação é incrível")); // Isso imprimirá "incrível é Programação"
+  console.log(palavrasEmOrdemReversa(" Eu sou bonito!")); // Ira ficar "!bonito sou Eu"
+  console.log(palavrasEmOrdemReversa("Palmeiras >>> corinthinas")); // Ira ficar "corinthians <<< Palmeiras"
