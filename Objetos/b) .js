@@ -16,12 +16,12 @@ function calcularTotalCarrinho() {
   return total;
 }
 
-// Adicionar itens ao carrinho
+// Adicionar carrinho
 adicionarItemAoCarrinho("Camiseta", 25.99, 2);
 adicionarItemAoCarrinho("Calça", 39.99, 1);
 adicionarItemAoCarrinho("Tênis", 79.99, 1);
 
-// Calcular e exibir o total do carrinho
+// o total do carrinho
 const totalCarrinho = calcularTotalCarrinho();
 console.log("Itens no Carrinho:", carrinhoDeCompras);
 console.log("Total do Carrinho:", totalCarrinho);
