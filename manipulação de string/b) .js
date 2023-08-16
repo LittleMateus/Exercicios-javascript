@@ -12,5 +12,5 @@ function contarLetra(str, letra) {
     return contador;
   }
   
-  console.log(contarLetra("banana", "a")); // Isso imprimirá "3"
-  console.log(contarLetra("Hello, world!", "o")); // Isso imprimirá "2"
+  console.log(contarLetra("banana", "a")); // 3
+  console.log(contarLetra("Hello, world!", "o")); // 2
