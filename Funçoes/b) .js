@@ -6,5 +6,5 @@ function calcularFatorial(numero) {
     }
   }
   
-  console.log(calcularFatorial(5)); // Isso imprimirá "120"
-  console.log(calcularFatorial(0)); // Isso imprimirá "1"
+  console.log(calcularFatorial(5)); // 120
+  console.log(calcularFatorial(0)); // 1
