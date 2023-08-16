@@ -6,5 +6,5 @@ function verificarParOuImpar(numero) {
     }
   }
   
-  console.log(verificarParOuImpar(4)); // Isso imprimirá "par"
-  console.log(verificarParOuImpar(7)); // Isso imprimirá "ímpar"
+  console.log(verificarParOuImpar(4)); //  par
+  console.log(verificarParOuImpar(7)); // ímpar
